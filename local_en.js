@@ -1,5 +1,5 @@
 ﻿var chinese = {
-      "name": {
+    "name": {
         "version": "2.0",
         "date": "2017-04-20",
         "name": "zh"
@@ -34,7 +34,7 @@
         "Locals": "本地模型",
         "Featured": "精品模型",
         "More": "更多",
-        "Bundled": "模型包",
+        "Library": "模型包",
         "DIY": "DIY",
         "Printer": "打印机",
         "Account": "账户",
@@ -119,7 +119,7 @@
         "Unbind": "解除绑定",
         "Bind": "绑定",
         "Privacy_Policy": "隐私声明",
-        "Clean_Up_Cache ": "清理手机空间",
+        "Clean_Up_Cache": "清理手机空间",
         "Sign_Out": "退出登录",
         "Infill": "填充",
         "Layer_Thickness": "层厚",
@@ -210,7 +210,7 @@
         "Release_to_refresh": "松开立即刷新",
         "Refreshing": "正在刷新…",
         "Pull_up_to_load_more": "上拉可以加载更多数据",
-        "Release_to_load_more": "松开立即加载更多数据",
+        "Release_to_load": "松开立即加载更多数据",
         "Loading": "正在加载数据…",
         "No_Data": "没有数据",
         "Slicing_in_progress_Cannot_load_models": "正在分层，无法导入模型",
@@ -222,8 +222,8 @@
         "Under_Review": "审核中",
         "Purchase_Type": "套餐类型",
         "Customized": "自定义",
-        "Local_Pictures": "本地照片",
-        "Take_a_picture": "拍照",
+        "Local_Pictures": "相册",
+        "Take_a_picture": "相机",
         "Edit": "编辑",
         "Pen": "画笔",
         "Text": "文字",
@@ -251,6 +251,12 @@
         "WeChat_Official_Account": "微信公众号",
         "Official_Website": "官方网址",
         "Software_License_Agreement": "软件许可使用协议",
-        "Copyright_Text": "北京太尔时代科技有限公司 版权所有"
+        "Copyright_Text": "北京太尔时代科技有限公司 版权所有",
+        "Color_change":"换色",
+        "floor":"有底",
+        "no_floor":"无底",
+        "Punching":"打孔",
+        "Adjustment":"调整",
+        "The_model_does_not_exist":"模型不存在"
     }
 }
