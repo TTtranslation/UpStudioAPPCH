@@ -150,14 +150,14 @@
         "NoticeText_TransError0": "传输未完成",
         "NoticeText_TransError1": "系统未准备就绪",
         "NoticeText_TransError2": "模型有空层",
-        "NoticeText_TransError3": "Part material insufficient for the print job",
-        "NoticeText_TransError4": "Support material insufficient for the print job",
-        "NoticeText_TransError5": "Fail to send cmd to printer",
-        "NoticeText_TransError6": "Printer error",
-        "NoticeText_TransError7": "Can not load buildstart program",
-        "NoticeText_TransError8": "Lost WIFI packages",
-        "NoticeText_TransError9": "Null temperature setting",
-        "NoticeText_TransError10": "License verify failed",
+        "NoticeText_TransError3": "模型材料不足",
+        "NoticeText_TransError4": "支撑材料不足",
+        "NoticeText_TransError5": "发送cmd指令失败",
+        "NoticeText_TransError6": "打印机错误",
+        "NoticeText_TransError7": "加载程序失败",
+        "NoticeText_TransError8": "wifi数据失败",
+        "NoticeText_TransError9": "没有设置喷嘴和底板温度",
+        "NoticeText_TransError10": "许可验证失败",
         "Failed_to_load_model": "模型错误，打开失败",
         "NoticeText_BuySuccess": "购买成功",
         "NoticeText_BuyFail": "购买失败，请重试",
@@ -254,4 +254,4 @@
         "Software_License_Agreement": "软件许可使用协议",
         "Copyright_Text": "北京太尔时代科技有限公司 版权所有"
     }
-}
+}}
