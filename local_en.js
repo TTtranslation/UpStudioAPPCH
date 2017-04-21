@@ -124,7 +124,7 @@
         "Infill": "填充",
         "Layer_Thickness": "层厚",
         "Quality": "质量",
-        "Preview": "打印预览",
+        "Preview": "预览",
         "Print": "打印",
         "Shell": "壳",
         "Surface": "表面",
@@ -243,7 +243,7 @@
         "Scale": "缩放",
         "Rotate": "旋转",
         "Initial_View": "初始化",
-        "x": "x",
+        "X": "X",
         "Y": "Y",
         "Z": "Z",
         "AboutUs": "关于我们",
@@ -257,6 +257,11 @@
         "no_floor":"无底",
         "Punching":"打孔",
         "Adjustment":"调整",
-        "The_model_does_not_exist":"模型不存在"
+        "The_model_does_not_exist":"模型不存在",
+        "ModelName":"模型名称",
+        "UploadModel":"上传模型",
+        "Width":"宽",
+        "Height":"高",
+        "ModelAdjustment":"三维调整"
     }
 }
