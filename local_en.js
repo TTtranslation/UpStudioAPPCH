@@ -210,7 +210,7 @@
         "Release_to_refresh": "松开立即刷新",
         "Refreshing": "正在刷新…",
         "Pull_up_to_load_more": "上拉可以加载更多数据",
-        "Release_to_load _more": "松开立即加载更多数据",
+        "Release_to_load_more": "松开立即加载更多数据",
         "Loading": "正在加载数据…",
         "No_Data": "没有数据",
         "Slicing_in_progress_Cannot_load_models": "正在分层，无法导入模型",
