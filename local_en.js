@@ -2,10 +2,9 @@
       "name": {
         "version": "2.0",
         "date": "2017-04-20",
-        "name": "en"
+        "name": "zh"
     },
     "IOS": {
-        "name":"zh",
         "TT_SYSTEMUNLINK": "打印机未连接",
         "TT_SYSTEMERROR": "未初始化",
         "TT_PREPARED": "打印机准备就绪",
