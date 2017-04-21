@@ -1,7 +1,10 @@
 ﻿var chinese = {
-    "version": "2.0",
-    "date": "2017-04-20",
-    "Iphone_Ipad": {
+      "name": {
+        "version": "2.0",
+        "date": "2017-04-20",
+        "name": "en"
+    },
+    "IOS": {
         "name":"zh",
         "TT_SYSTEMUNLINK": "打印机未连接",
         "TT_SYSTEMERROR": "未初始化",
@@ -42,7 +45,7 @@
         "Delete_Selected_Models": "确定要删除所选模型？",
         "Confirm": "确定",
         "Purchased": "已购买",
-        "Liked": "已收藏",
+        "Like_end": "已收藏",
         "Private": "已上传",
         "Published": "已发布",
         "Navigation": "导航",
@@ -72,7 +75,6 @@
         "Stop": "停止工作",
         "Printer_List": "打印机列表",
         "Please_Enter": "请输入",
-        "s_Password": "的密码",
         "Please_Enter_Password": "请输入密码",
         "Connecting": "连接中……",
         "Failed_to_Connect": "连接失败",
@@ -112,7 +114,7 @@
         "Status": "状态",
         "Activation_Status": "激活状态",
         "Binding_Status": "绑定状态",
-        "Activated": "已激活",
+        "Activate_end": "已激活",
         "Unactivated": "未激活",
         "Activate": "激活",
         "Unbind": "解除绑定",
@@ -182,7 +184,7 @@
         "Invalid_Email_Address": "邮箱地址无效",
         "Email_not_Valid_or_Failed_to_Send_Email": "邮箱不存在或邮件发送失败",
         "Failed_to_Pause_Print_Job": "暂停失败",
-        "Failed to Resume Print Job": "恢复打印失败",
+        "Failed_to_Resume_Print_Job": "恢复打印失败",
         "Confirm_to_stop_the_current_job": "是否停止？",
         "NoticeLink_CheckNetTip": "请检查网络，且确保App连接的路由与打印机一致",
         "ActivateTip": "请及时激活打印机从而使用完整的打印机功能",
@@ -209,7 +211,7 @@
         "Release_to_refresh": "松开立即刷新",
         "Refreshing": "正在刷新…",
         "Pull_up_to_load_more": "上拉可以加载更多数据",
-        "Release to load more": "松开立即加载更多数据",
+        "Release_to_load _more": "松开立即加载更多数据",
         "Loading": "正在加载数据…",
         "No_Data": "没有数据",
         "Slicing_in_progress_Cannot_load_models": "正在分层，无法导入模型",
