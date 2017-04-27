@@ -1,7 +1,7 @@
 ﻿var chinese = {
     "name": {
         "version": "2.0",
-        "date": "2017-04-24",
+        "date": "2017-04-27",
         "name": "zh"
     },
     "IOS": {
@@ -171,11 +171,11 @@
     "NoticeLink_ConnectFail": "不能连接打印机",
     "NoticeLink_NoRespone": "错误：打印机未响应",
     "NoticeLink_Busy": "打印机忙",
-    "CustomMaterial_NameTips": "请输入1-5位的字符",
-    "CustomMaterial_NameRepeat": "错误：材料名称已存在",
+    "CustomMaterial_NameTips": "请输入1-5位字符的材料名",
+    "CustomMaterial_NameRepeat": "材料名称已存在",
     "CustomMaterial_TempTips": "请输入温度数值(℃)",
-    "CustomMaterial_NozzleTempTips": "错误：温度不合法，请输入0-300的数字",
-    "CustomMaterial_PlatTempTips": "错误：温度不合法，请输入0-100的数字",
+    "CustomMaterial_NozzleTempTips": "喷嘴温度不合法，请输入0-300的数字",
+    "CustomMaterial_PlatTempTips": "底板温度不合法，请输入0-100的数字",
     "No_Printer_Found": "未搜索到打印机",
     "Printer_Status_Error": "错误：打印机状态错误",
     "Please_Connect_to_a_Printer": "请先连接打印机",
@@ -262,6 +262,8 @@
     "UploadModel":"上传模型",
     "Width":"宽",
     "Height":"高",
+    "Depth":"深度",
+    "Input_Error":"请输入有效的字符",
     "ModelAdjustment":"三维调整",
     "The_model_does_not_exist":"模型不存在",
     "Binded":"已绑定",
@@ -297,6 +299,7 @@
     "ErrorText_IncorrectMaterial":"打印机材料设置错误",
     "ErrorText_Printer_SN_Error":"打印机序列号有问题",
     "Join":"加入",
-    "Package":"模型包"
- }
+    "Package":"模型包",
+    "Progress_Rate":"进度"
+}
 }
