@@ -4,7 +4,7 @@
         "date": "2017-04-27",
         "name": "zh"
     },
-    "IOS": {
+    "IOS":{
     "TT_SYSTEMUNLINK": "打印机未连接",
     "TT_SYSTEMERROR": "未初始化",
     "TT_PREPARED": "打印机准备就绪",
@@ -39,6 +39,7 @@
     "Printer": "打印机",
     "Account": "账户",
     "Delete": "删除",
+    "To_print":"去打印",
     "Select_All": "全选",
     "Cancel": "取消",
     "Delete_Selected_Models": "确定要删除所选模型？",
