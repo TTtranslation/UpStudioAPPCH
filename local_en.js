@@ -1,7 +1,7 @@
 ﻿var chinese = {
     "name": {
         "version": "2.0",
-        "date": "2017-04-27",
+        "date": "2017-05-11",
         "name": "zh"
     },
     "IOS":{
@@ -34,7 +34,7 @@
     "Locals": "本地模型",
     "Featured": "精品模型",
     "More": "更多",
-    "Library": "模型包",
+    "Library": "模型库",
     "DIY": "DIY",
     "Printer": "打印机",
     "Account": "账户",
@@ -172,7 +172,7 @@
     "NoticeLink_ConnectFail": "不能连接打印机",
     "NoticeLink_NoRespone": "错误：打印机未响应",
     "NoticeLink_Busy": "打印机忙",
-    "CustomMaterial_NameTips": "请输入1-5位字符的材料名",
+    "CustomMaterial_NameTips": "请输入1-5位字符的材料名（字母、数字和‘+’‘-’‘_’的组合）",
     "CustomMaterial_NameRepeat": "材料名称已存在",
     "CustomMaterial_TempTips": "请输入温度数值(℃)",
     "CustomMaterial_NozzleTempTips": "喷嘴温度不合法，请输入0-300的数字",
@@ -183,7 +183,7 @@
     "Please_Enter_an_EmailvAddress": "请输入邮箱",
     "Invalid_Email_Address": "邮箱地址无效",
     "Email_not_Valid_or_Failed_to_Send_Email": "邮箱不存在或邮件发送失败",
-    "Failed_to_Pause_Print_Job": "暂停失败",
+    "Failed_to_Pause_Print_Job": "暂停打印失败",
     "Failed_to_Resume_Print_Job": "恢复打印失败",
     "Confirm_to_stop_the_current_job": "是否停止？",
     "NoticeLink_CheckNetTip": "请检查网络，且确保App连接的路由与打印机一致",
@@ -301,6 +301,11 @@
     "ErrorText_Printer_SN_Error":"打印机序列号有问题",
     "Join":"加入",
     "Package":"模型包",
-    "Progress_Rate":"进度"
+    "Progress_Rate":"进度",
+    "Import_Successful":"模型导入完成，是否打开？",
+    "Open":"打开",
+    "OpenFail_Slice":"载入模型失败，分层中不能载入其他模型！",
+    "OpenFail_Trans":"载入模型失败，传输中不能载入其他模型！",
+    "RegisterFail_hasExist":"注册失败，用户名或邮箱已存在！"
 }
 }
