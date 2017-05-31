@@ -1,7 +1,7 @@
 ﻿var chinese = {
     "name": {
         "version": "2.0",
-        "date": "2017-05-11",
+        "date": "2017-05-31",
         "name": "zh"
     },
     "IOS":{
@@ -186,7 +186,7 @@
     "Failed_to_Pause_Print_Job": "暂停打印失败",
     "Failed_to_Resume_Print_Job": "恢复打印失败",
     "Confirm_to_stop_the_current_job": "是否停止？",
-    "NoticeLink_CheckNetTip": "请检查网络，且确保App连接的路由与打印机一致",
+    "NoticeLink_CheckNetTip": "请检查网络，且确保App连接的路由与打印机一致!",
     "ActivateTip": "请及时激活打印机从而使用完整的打印机功能",
     "ActivateTip_ActivateFail": "激活状态错误，请返厂",
     "ActivateTip_ActivateSuccess": "激活成功，请重新启动打印机",
@@ -261,8 +261,8 @@
     "Adjustment":"调整",
     "ModelName":"模型名称",
     "UploadModel":"上传模型",
-    "Width":"宽",
-    "Height":"高",
+    "Width":"长",
+    "Height":"宽",
     "Depth":"深度",
     "Input_Error":"请输入有效的字符",
     "ModelAdjustment":"三维调整",
@@ -306,6 +306,10 @@
     "Open":"打开",
     "OpenFail_Slice":"载入模型失败，分层中不能载入其他模型！",
     "OpenFail_Trans":"载入模型失败，传输中不能载入其他模型！",
-    "RegisterFail_hasExist":"注册失败，用户名或邮箱已存在！"
+    "RegisterFail_hasExist":"注册失败，用户名或邮箱已存在！",
+    "No_network":"无网络连接，请先连接网络。",
+    "Error_ModelData":"转换失败，模型数据为0",
+    "Demonstration":"演示",
+    "ModelSaveFailed":"模型保存失败，请重试!"
 }
 }
