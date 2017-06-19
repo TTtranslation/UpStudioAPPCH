@@ -1,7 +1,7 @@
 ﻿var chinese = {
     "name": {
         "version": "2.0",
-        "date": "2017-05-31",
+        "date": "2017-06-19",
         "name": "zh"
     },
     "IOS":{
@@ -32,7 +32,7 @@
     "TT_COMMERROR": "通讯错误",
     "Please_choose_a_printer": "请选择打印机",
     "Locals": "本地模型",
-    "Featured": "精品模型",
+    "Featured": "Moshop",
     "More": "更多",
     "Library": "模型库",
     "DIY": "DIY",
@@ -289,6 +289,8 @@
     "Remaining_Prints":"剩余打印次数",
     "times":"次",
     "Successful_publish":"发布成功",
+    "Successful_upload":"上传成功",
+    "ErrorText_timeout":"上传失败，超时",
     "Action_failed_please_try_later":"操作失败，请稍后尝试",
     "Stop_Printing":"停止打印",
     "ErrorText_MaterialShortage":"打印材料不足，是否继续打印？",
@@ -310,6 +312,9 @@
     "No_network":"无网络连接，请先连接网络。",
     "Error_ModelData":"转换失败，模型数据为0",
     "Demonstration":"演示",
-    "ModelSaveFailed":"模型保存失败，请重试!"
+    "MyProfile":"我的资料",
+    "ModelDetails":"模型详情",
+    "Description":"详情",
+    "Enter_Description":"请输入模型描述"
 }
 }
