@@ -1,7 +1,7 @@
 ﻿var chinese = {
     "name": {
         "version": "2.0",
-        "date": "2017-07-28",
+        "date": "2017-08-01",
         "name": "zh"
     },
     "IOS":{
@@ -309,7 +309,7 @@
     "fb_Choose_type":"请选择反馈问题的类型",
     "fb_Add_text":"文字内容",
     "fb_Text_tips":"请输入400字以内的描述",
-    "fb_Email_title":"联系方式（选填）",
+    "fb_Email_title":"联系方式",
     "fb_Email_placeholder":"输入邮箱地址",
     "fb_SN_title":"打印机序列号（选填）",
     "fb_SN_placeholder":"打印机序列号",
@@ -317,6 +317,8 @@
     "fb_opinion":"意见建议",
     "fb_App_issue":"程序问题",
     "fb_Printer_issue":"打印机问题",
-    "fb_Others":"其他"
+    "fb_Others":"其他",
+    "fb_sendSuccess":"反馈信息已发送，感谢您的支持"
+    
 }
 }
